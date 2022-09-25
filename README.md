@@ -2,12 +2,12 @@
 
 > Clonar Projeto
 ```bash
-git clone https://github.com/AndersonAslap/project-api-link.git
+git clone https://github.com/anacristinamouraa/crud-api.git
 ```
 
 > Entrar no Projeto
 ```bash
-cd project-api-link
+cd crud-api
 ```
 
 > Instalar dependências
